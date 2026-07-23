@@ -1,0 +1,19 @@
+{
+  "name": "Darwich Tech",
+  "short_name": "Darwich Tech",
+  "icons": [
+    {
+      "src": "Assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0e3569",
+  "background_color": "#0e3569",
+  "display": "standalone"
+}
